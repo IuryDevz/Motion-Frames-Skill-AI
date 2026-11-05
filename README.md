@@ -24,4 +24,12 @@
 
 ## Feitos com ela
 
-**TurtlePags** (53s) · **Feito com Muse** (14s) · **Kalo** (15s) · **iPhone 18 Pro** (53s)
+
+
+https://github.com/user-attachments/assets/1687e1ce-ba4a-4801-84a8-2e05880671af
+
+
+
+https://github.com/user-attachments/assets/c39b6880-56c8-4ed6-a573-077542cd34a6
+
+
