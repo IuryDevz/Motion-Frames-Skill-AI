@@ -1,18 +1,27 @@
-Motion Frames
-Uma skill que ensina o seu agente de IA a criar vídeos de motion design profissionais — verticais (1080x1920, 60fps), para TikTok, Reels e anúncios.
+![Motion Frames](cover.png)
 
-O que esta skill aprendeu
-Ela foi treinada a partir de vídeos de referência reais e de produções testadas na prática. Ela sabe:
-Criar a animação por código — cada quadro do vídeo é calculado por uma função (renderFrame(n)), sem relógio e sem aleatório: o resultado é sempre o mesmo e pode ser sincronizado com uma narração, palavra por palavra.
-4 estilos de vídeo — abertura cinematográfica com morphs; promo premium de app (celular 3D, números contando, logo no final); cena interativa sem cortes (cursor clica, texto é digitado, a tela responde); e anúncio de tipografia clara sincronizado com a fala.
-As regras que separam profissional de genérico — tipografia como protagonista, alguma coisa acontecendo a cada 0,5–1,5s, elementos empilhando com física, transições que são morphs (um objeto vira outro), fundo sempre vivo e com profundidade — nunca uma cor chapada — e um efeito sonoro para cada animação.
-Usar a identidade real da marca — pegar logo, cores e fontes do site do produto e construir o vídeo em cima disso.
-O pipeline completo — montar a cena, conferir os quadros antes, renderizar e entregar o MP4 pronto, incluindo os erros que já aconteceram e como não repeti-los.
+# Motion Frames
 
-Como instalar (o jeito mais fácil)
-Passo 1 — Baixe o zip desta skill.
-Passo 2 — Jogue o zip no chat do seu agente de IA.
-Passo 3 — Peça o vídeo: "usa essa skill para criar um vídeo sobre…" — e descreva o vídeo que você quer.
-Pronto. O agente lê a skill, prepara o que for preciso e cria o vídeo para você.
+**Skill que ensina seu agente de IA a criar vídeos de motion design profissionais** — verticais, 1080x1920, 60fps, para TikTok, Reels e anúncios.
 
-https://github.com/user-attachments/assets/6cdf1362-d170-4f2a-8561-8b3b7d93723d
+## O que ela sabe
+
+- **Criar animação por código**, quadro a quadro (`renderFrame(n)`) — sincronizável com narração, palavra por palavra.
+- **4 estilos**: cinema/morph, promo premium de app, cena interativa sem cortes e anúncio de tipografia clara.
+- **As regras do motion profissional**: tipografia protagonista, micro-evento a cada 0,5–1,5s, morphs, fundo vivo com profundidade e som em cada animação.
+- **Usar a identidade real da marca**: logo, cores e fontes do site do produto.
+- **O pipeline completo** até o MP4 — e os erros a não repetir.
+
+## Como instalar (o jeito fácil)
+
+**Passo 1 — Baixe o zip desta skill.**
+
+**Passo 2 — Jogue o zip no chat do seu agente de IA.**
+
+**Passo 3 — Peça:** *"usa essa skill para criar um vídeo sobre…"*
+
+**Pronto** — o agente faz o resto.
+
+## Feitos com ela
+
+**TurtlePags** (53s) · **Feito com Muse** (14s) · **Kalo** (15s) · **iPhone 18 Pro** (53s)
