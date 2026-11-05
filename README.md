@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/6cdf1362-d170-4f2a-8561-8b3b7d93723d
+
 Motion Frames
 Uma skill que ensina o seu agente de IA a criar vídeos de motion design profissionais — verticais (1080x1920, 60fps), para TikTok, Reels e anúncios.
 O que esta skill aprendeu
